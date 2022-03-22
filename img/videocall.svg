@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="87.260788mm"
+   height="65.778046mm"
+   viewBox="0 0 87.260788 65.778046"
+   version="1.1"
+   id="svg11734"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="videocall.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11736"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.44542649"
+     inkscape:cx="208.78866"
+     inkscape:cy="110.00693"
+     inkscape:window-width="1857"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11731" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-50.221608,-119.17498)">
+    <g
+       id="g11718"
+       transform="matrix(7.0276443,0,0,7.0276443,-315.97559,-846.87872)">
+      <rect
+         style="fill:#3454d2;fill-opacity:1;stroke:none;stroke-width:0.8636;stroke-linecap:square;stroke-linejoin:round;stop-color:#000000"
+         id="rect862"
+         width="8.8010998"
+         height="9.3598995"
+         x="52.108101"
+         y="137.4648"
+         ry="2.2824185" />
+      <path
+         id="path10173"
+         style="fill:#3454d2;fill-opacity:1;stroke:none;stroke-width:0.127;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 64.524892,140.17906 c 0,-0.58915 -0.401937,-1.04162 -0.863243,-1.04162 -0.131313,0 -0.255339,0.0384 -0.367202,0.10707 l -0.963668,0.57324 c -0.201279,0.15882 -0.360302,0.46037 -0.360302,0.74181 v 1.65427 1.65427 c 0,0.28144 0.159023,0.58299 0.360302,0.7418 l 0.963668,0.57325 c 0.111863,0.0687 0.235889,0.10707 0.367202,0.10707 0.461306,0 0.863243,-0.45247 0.863243,-1.04162 v -2.03477 z"
+         sodipodi:nodetypes="ssccscsccsscs" />
+    </g>
+  </g>
+</svg>
